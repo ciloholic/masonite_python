@@ -11,9 +11,14 @@ https://github.com/MasoniteFramework/masonite
 pipenv install --dev
 ```
 
-## flake8 or autopep8
+# build-in server
+
+```
+craft serve
+```
+
+## flake8
 
 ```
 flake8
-autopep8 -i
 ```
