@@ -3,6 +3,7 @@ import logging
 
 from masonite import env
 from masonite.environment import LoadEnvironment
+
 from orator import DatabaseManager, Model
 
 """Load Environment Variables
